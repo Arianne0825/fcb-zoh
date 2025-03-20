@@ -1,0 +1,32 @@
+*{ margin: 0; padding: 0; box-sizing: border-box; }
+*{	font-family: "Baskerville Old Face", monospace;}
+nav { 
+	background-color: skyblue;
+	padding: 16px;
+	margin-bottom: 4px; 
+}
+a { text-decoration: none; }
+section	{ text-align: center;}
+.nav-link {margin-left: 10px; margin-right: 10px; color: blue;}
+#logo	{height: 300px; width: 300px; margin-top: 2rem; margin-bottom: 2rem;}
+#name	{margin-top: 1rem; margin-bottom: 1rem}
+#title {margin-top: 1rem; margin-bottom: 2rem}
+#intro {width: 200px; margin: auto;}
+#tools {text-align: center; margin-top: 100px; margin-bottom: 100px;}
+#tools-title {margin-bottom: 50px}
+.tools-img {height: 100px; width: 100px; margin-left: 1rem; margin-right: 1rem}
+#project {text-align: center;}
+.card {background-color: gray; height: 400px; width: 600px; margin-left: auto;margin-right: auto;}
+.card-img {height: 300px; width: 300px}
+#contact {
+	text-align: center;
+	padding: 16px; 
+	margin-top: 4px; 
+	background-color: skyblue
+}
+
+body	{ 
+	background-image: url(https://plus.unsplash.com/premium_photo-1683120974913-1ef17fdec2a8?q=80&w=1926&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D); 
+	background-repeat: no-repeat;
+	background-size: cover; background-position: center;
+background-attachment: fixed;}
